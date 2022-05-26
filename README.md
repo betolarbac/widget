@@ -11,7 +11,7 @@
 <p align="center">
  
 
-  <a href="https://github.com/IgorThierry">
+  <a href="https://github.com/betolarbac">
     <img alt="Made by Roberto Cabral" src="https://img.shields.io/badge/Made%20by-Roberto%20Cabral-2ecc71">
   </a>
 
