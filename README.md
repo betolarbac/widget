@@ -23,6 +23,9 @@
 ## 🚀 Projeto
 
 Um Component Widget para feedback que pode ser utilizado em qualquer site.
+veja o back-end nesse link <a href="https://github.com/betolarbac/back-end-widget">
+    Back-end
+  </a>
 
 ## 🔧 Tecnologias
 
